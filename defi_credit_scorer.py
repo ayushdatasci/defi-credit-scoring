@@ -1,16 +1,11 @@
 #!/usr/bin/env python3
 """
-DeFi Wallet Credit Scoring System - LATEST VERSION
+DeFi Wallet Credit Scoring System 
 ==================================================
 
 A machine learning model to assign credit scores (0-1000) to DeFi wallets
 based on their transaction behavior on the Aave V2 protocol.
 
-Updated to work with the actual data structure from user-wallet-transactions.json
-
-Author: AI Assistant
-Date: July 2025
-Version: 2.0 (Updated for actual data structure)
 """
 
 import json
